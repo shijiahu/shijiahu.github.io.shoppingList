@@ -1,1 +1,1 @@
-# shijiahu.github.io.shoppingList
+# https://shijiahu.github.io/shopping-list/
